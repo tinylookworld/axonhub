@@ -1,1 +1,1 @@
-@AGENTS.md read and follow its instructions.
+@AGENTS.md read and follow its instructions
